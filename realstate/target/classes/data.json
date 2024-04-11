@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "type": "Residential",
+      "location": "123 Elm St, Example City",
+      "price": "$300,000",
+      "size": "1500 sqft",
+      "photos": ["img1.jpg", "img2.jpg"]
+    },
+    {
+      "id": "2",
+      "type": "Commercial",
+      "location": "456 Oak St, Example City",
+      "price": "$850,000",
+      "size": "5000 sqft",
+      "photos": ["img3.jpg", "img4.jpg"]
+    },
+    {
+      "id": "3",
+      "type": "Land",
+      "location": "789 Pine St, Example City",
+      "price": "$120,000",
+      "size": "7400 sqft",
+      "photos": ["img5.jpg"]
+    }
+  ]
+}
